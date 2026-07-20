@@ -62,8 +62,9 @@
 https://cdn-tt.pages.dev/ch
 
 #======India Bangla=====
-#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD 📺 
-
+#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD-1 📺
+#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/9Alx1l8.jpeg" group-title="India Bangla",Starjalsha HD-2 📺
+http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=155770&extension=m3u8
 #EXTINF:-1 tvg-id="132" tvg-logo="https://i.imgur.com/dWYZRR3.jpeg" group-title="India Bangla",Zeebangla HD 📺
 
 #EXTINF:-1 tvg-id="97" tvg-logo="https://i.imgur.com/4N1ZVzG.png" group-title="India Bangla",Colors Bangla HD 📺 
